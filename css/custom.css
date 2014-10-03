@@ -1,11 +1,16 @@
+body {
+	background-color: #E6E6E6;
+	height: 100%;
+}
+
 .sundae {
-	margin-top: 150px;
+	margin-top: 50px;
 	text-align: center;
 	margin-left: -60px;
 }
 
 .sandwich {
-	margin-top: 150px;
+	margin-top: 50px;
 	margin-left: -60px;
 }
 
@@ -13,3 +18,10 @@
 	margin-left: -60px;
 }
 
+.menu_text {
+	margin-left: -60px;
+}
+
+.menu_title {
+	margin-top: 100px
+}
