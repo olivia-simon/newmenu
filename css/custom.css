@@ -1,3 +1,129 @@
+.ice_cream {
+	position: fixed;
+	width: 100%;
+	height: auto;
+	min-height: 100px;
+	min-width: 980px;
+	z-index: -10;
+}
+
+.content {
+
+	margin-top: -10px;
+}
+
+.button-thing {
+	margin-top: -100px;
+	margin-right: 20px;
+}
+
+.logo {
+	margin-top: 300px;
+}
+
+.thelogo 
+	{
+		background-color: black;
+		opacity: .7;
+		border-top: 1000px;
+		margin-bottom: 100px;
+		margin-top: -100px;
+		height: 225px;
+		
+	}
+
+
+.form-group {
+	margin-top: 100px;
+}
+
+.res_head {
+	margin-top: 100px;
+	margin-bottom: -50px
+}
+
+.text_res {
+	margin-top: 50px;
+	margin-bottom: -50px;
+}
+
+.circle { 
+	
+	border-radius: 100px;
+	background-color: black;
+	opacity: .8;
+	width: 100px;
+	text-align: center;
+
+}
+
+.text {
+	color: white;
+	text-align: center;
+	margin-top: 250px;
+}
+
+.sammy {
+	position: fixed;
+	width: 100%;
+	height: auto;
+	min-height: 100px;
+	min-width: 980px;
+	z-index: -10;
+
+}
+
+
+.ice_cream2 {
+	position: fixed;
+	width: 100%;
+	height: auto;
+	min-height: 100px;
+	min-width: 980px;
+	z-index: -10;
+}
+
+.tab_circle {
+	background: #000;
+	position: relative;
+
+	border-radius: 100%;
+	opacity: 0.5;
+	border: 2px solid #fff;
+	width: 300px;
+	height: 300px;
+	
+	text-align: center;
+	margin-top: 100px;
+
+}
+
+.contact {
+margin-top: 100px;
+z-index: 10;
+text-align: center;
+background: #fff;
+height: 500px;
+}
+
+.title {
+	font-size: 24px;
+	margin-top: 
+	padding: 10px;
+	border-style: solid;
+	border-width: medium;
+	margin-bottom: 20px;}
+
+
+
+
+
+
+
+
+
+
+
 body {
 	background-color: #E6E6E6;
 	height: 100%;
