@@ -54,3 +54,22 @@ body {
   background-size: cover;
 
 }
+
+.C {
+	 background: url(http://careergirlnetwork.com/wp-content/uploads/2013/11/Thanksgiving-Sandwich.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+.D {
+	 background: url(http://tnequalityproject.org/wp-content/uploads/2014/04/ERD_Sundae1.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
