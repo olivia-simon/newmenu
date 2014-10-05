@@ -80,8 +80,8 @@
 	border-radius: 100%;
 	opacity: 0.8;
 	border: 2px solid #fff;
-	width: 300px;
-	height: 300px;
+	width: 310px;
+	height: 310px;
 	
 	text-align: center;
 	margin-top: 100px;
@@ -198,6 +198,37 @@ height: 500px;
 }
 
 .carousel {
-	margin-top: 100px
+	margin-top: 50px
+}
+
+.challenge {
+		background: url(http://thedomesticgeek.com/wp-content/uploads/2014/08/Milkshakes.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+.rez {
+		background: url(http://notacookblog.files.wordpress.com/2011/03/white-chocolate-vanilla-bean-icecream.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+
+.row-centered {
+    text-align:center;
+}
+.col-centered {
+    display:inline-block;
+    float:none;
+    /* reset the text-align */
+    text-align:left;
+    /* inline-block space fix */
+    margin-right:-4px;
 }
 
