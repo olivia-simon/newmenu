@@ -114,7 +114,6 @@ height: 500px;
 
 
 
-
 .sundae {
 	margin-top: 50px;
 	text-align: center;
@@ -140,7 +139,7 @@ height: 500px;
 
 .menu_title1 {
 	margin-top: 100px;
-	text-align: center;
+	
 	
 }
 
@@ -231,4 +230,14 @@ height: 500px;
     /* inline-block space fix */
     margin-right:-4px;
 }
+
+.footer {
+	margin-bottom: 25px;
+}
+
+.footer a {
+	margin-bottom: 10px;
+
+}
+
 
